@@ -6,6 +6,8 @@ ORG:Daren Davis, LLC
 TITLE:Principal Consultant
 TEL;TYPE=CELL:+1-817-360-9267
 EMAIL:daren.davis.consulting@gmail.com
-URL:https://drive.google.com/drive/folders/14zL-irfJEkeFrfHJJa7R1MJMlHcu48LC?usp=drive_link
+URL;TYPE=WORK:https://drive.google.com/drive/folders/14zL-irfJEkeFrfHJJa7R1MJMlHcu48LC?usp=drive_link
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/daren-davis-54061b99/
 ADR;TYPE=WORK:;;;Granbury;TX;;USA
+NOTE:Manufacturing & Education Advisory Services
 END:VCARD
